@@ -4,7 +4,7 @@
     "href": "team.html",
     "title": "Meet Our Team",
     "section": "",
-    "text": "Our lab brings together researchers with diverse backgrounds and expertise.\n\n\n\n\n\nAlexander H. Hogan, MD, MS is Associate Professor of Pediatrics at UConn Health and Pediatric Hospitalist at Connecticut Children’s. He is a health-services researcher with a focus on equitably reducing pediatric respiratory morbidity. Over the last five years, he has spearheaded research projects exploring risk factors for pediatric asthma readmissions, health disparities during the COVID-19 pandemic, and the geographic clustering of bronchiolitis acute care in Connecticut. He is Research Director of the Pediatric Hospital Medicine fellowship and leads an NIH-funded K23 study on preventing RSV in Hartford communities. Dr. Hogan holds a BA from Williams College, an MD from Mount Sinai School of Medicine, and a Masters of Clinical Research Methods from Albert Einstein College of Medicine.\n\n\n\n\n\n\n\nMolly Hagler is a Pediatric Hospital Medicine Fellow at Connecticut Children’s Medical Center in Hartford, CT. After completing medical school at the University of Tennessee Health Science Center, she attended residency at Le Bonheur Children’s Hospital in Memphis, TN. Dr. Hagler is passionate about medical education and is currently pursuing a Health Professions Education Online Graduate Certificate through the University of Connecticut. Her research interests include enhancing resident well-being and improving the patient experience within the teaching environment."
+    "text": "Our lab brings together researchers with diverse backgrounds and expertise.\n\nAlexander H. Hogan, MD, MS is Associate Professor of Pediatrics at UConn Health and Pediatric Hospitalist at Connecticut Children’s. He is a health-services researcher with a focus on equitably reducing pediatric respiratory morbidity. Over the last five years, he has spearheaded research projects exploring risk factors for pediatric asthma readmissions, health disparities during the COVID-19 pandemic, and the geographic clustering of bronchiolitis acute care in Connecticut. He is Research Director of the Pediatric Hospital Medicine fellowship and leads an NIH-funded K23 study on preventing RSV in Hartford communities. Dr. Hogan holds a BA from Williams College, an MD from Mount Sinai School of Medicine, and a Masters of Clinical Research Methods from Albert Einstein College of Medicine.\n\nAnnina Giannuzzi is a Pediatric Hospital Medicine Fellow at Connecticut Children’s (fellowship 2025 to 2027) and completed pediatric residency at the University of Connecticut. Dr. Giannuzzi leads the lab’s work on Cannabis Hyperemesis Syndrome (CHS), including a standardized clinical pathway, validation of the CHS-specific ICD-10 code and natural language processing to identify CHS cases.\n\nKristin Natoli is a Pediatric Hospital Medicine Fellow at Connecticut Children’s (fellowship 2026 to 2028) and completed pediatric residency at Jersey Shore University Medical Center. Dr. Natoli is investigating how blood culture identification (BCID) PCR testing affects emergency department and inpatient admissions and time to appropriate treatment.\n\nSigrid joined the Hogan Lab in November 2026 as a research assistant. Sigrid leads IRB, REDCap and multi-site coordination across the lab’s funded projects.\n\nNatalia joined the Hogan Lab in November 2026 as a research assistant. Natalia leads family recruitment and qualitative interviews for our K23 study on RSV prevention.\n\nMolly Hagler completed the Pediatric Hospital Medicine Fellowship at Connecticut Children’s Medical Center in Hartford, CT (2024 to 2026), as a member of the program’s inaugural class. After completing medical school at the University of Tennessee Health Science Center, she attended residency at Le Bonheur Children’s Hospital in Memphis, TN. During fellowship, Dr. Hagler pursued a Health Professions Education Online Graduate Certificate through the University of Connecticut. Her research interests include enhancing resident well-being and improving the patient experience within the teaching environment."
   },
   {
     "objectID": "team.html#principal-investigator",
@@ -18,14 +18,28 @@
     "href": "team.html#phm-fellows",
     "title": "Meet Our Team",
     "section": "",
-    "text": "Molly Hagler is a Pediatric Hospital Medicine Fellow at Connecticut Children’s Medical Center in Hartford, CT. After completing medical school at the University of Tennessee Health Science Center, she attended residency at Le Bonheur Children’s Hospital in Memphis, TN. Dr. Hagler is passionate about medical education and is currently pursuing a Health Professions Education Online Graduate Certificate through the University of Connecticut. Her research interests include enhancing resident well-being and improving the patient experience within the teaching environment."
+    "text": "Annina Giannuzzi is a Pediatric Hospital Medicine Fellow at Connecticut Children’s (fellowship 2025 to 2027) and completed pediatric residency at the University of Connecticut. Dr. Giannuzzi leads the lab’s work on Cannabis Hyperemesis Syndrome (CHS), including a standardized clinical pathway, validation of the CHS-specific ICD-10 code and natural language processing to identify CHS cases.\n\nKristin Natoli is a Pediatric Hospital Medicine Fellow at Connecticut Children’s (fellowship 2026 to 2028) and completed pediatric residency at Jersey Shore University Medical Center. Dr. Natoli is investigating how blood culture identification (BCID) PCR testing affects emergency department and inpatient admissions and time to appropriate treatment."
+  },
+  {
+    "objectID": "team.html#research-assistants",
+    "href": "team.html#research-assistants",
+    "title": "Meet Our Team",
+    "section": "",
+    "text": "Sigrid joined the Hogan Lab in November 2026 as a research assistant. Sigrid leads IRB, REDCap and multi-site coordination across the lab’s funded projects.\n\nNatalia joined the Hogan Lab in November 2026 as a research assistant. Natalia leads family recruitment and qualitative interviews for our K23 study on RSV prevention."
+  },
+  {
+    "objectID": "team.html#alumni",
+    "href": "team.html#alumni",
+    "title": "Meet Our Team",
+    "section": "",
+    "text": "Molly Hagler completed the Pediatric Hospital Medicine Fellowship at Connecticut Children’s Medical Center in Hartford, CT (2024 to 2026), as a member of the program’s inaugural class. After completing medical school at the University of Tennessee Health Science Center, she attended residency at Le Bonheur Children’s Hospital in Memphis, TN. During fellowship, Dr. Hagler pursued a Health Professions Education Online Graduate Certificate through the University of Connecticut. Her research interests include enhancing resident well-being and improving the patient experience within the teaching environment."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Our lab’s mission is to reduce pediatric morbidity and mortality using health services research and multi-center collaboration. Our work spans several key areas:\n\n\n\n\nThrough collaborations with the UConn GIS Health Lab at Connecticut Children’s we investigate the impact of place on pediatric health disparities.\n\n\n\n\n\n\n\n\n\nCollaborating with Dr. Kimia’s NLP tool DrT to investigate predictors of Low Value Care in pediatrics.\n\n\n\n\n\n\n\n\n\nUsing PHIS and national datasets, we analyze trends in pediatric respiratory morbidity — with active projects on bronchiolitis geographic clustering, nirsevimab effectiveness (including an MMWR report across 24 states), and the impact of maternal RSV vaccination on pediatric hospitalizations.\n\n\n\n\n\n\n\n\n\nWe are developing a standardized clinical pathway for CHS management across ED and inpatient settings at Connecticut Children’s, paired with a retrospective chart review and multi-center database analysis."
+    "text": "Our lab’s mission is to reduce pediatric morbidity and mortality using health services research and multi-center collaboration. Our work spans several key areas:\n\nThrough collaborations with the UConn GIS Health Lab at Connecticut Children’s we investigate the impact of place on pediatric health disparities. With a Hood Hub award (2026 to 2027), we are working with the Children’s Hospital Association and partner children’s hospitals to validate DeGAUSS, an open, privacy-preserving tool that links home addresses to neighborhood data, and to test whether it works equally well for every child. Recent work in the Journal of Pediatrics asked whether ZIP codes are good enough for measuring the Child Opportunity Index in pediatric hospitalization research.\n\nUsing PHIS and national datasets, we analyze trends in pediatric respiratory morbidity — with active projects on bronchiolitis geographic clustering, nirsevimab effectiveness (including an MMWR report across 24 states), and the impact of maternal RSV vaccination on pediatric hospitalizations. Our recent paper in Hospital Pediatrics describes bronchiolitis hospitalizations and cost at children’s hospitals in the era of RSV prevention.\n\nWith an NIH NIAID K23 award (2026), Preventing RSV: A Community-Engaged, Implementation Science Approach, we are learning from Hartford families why some newborns do not receive RSV immunization, co-designing a better way to offer it with parents and clinicians, and piloting it in a newborn nursery.\n\nLed by PHM fellow Dr. Annina Giannuzzi, our CHS work includes a standardized clinical pathway for CHS management across ED and inpatient settings at Connecticut Children’s, validation of the new CHS-specific ICD-10 code, and natural language processing (NLP) to identify CHS cases in the medical record.\n\nLed by PHM fellow Dr. Kristin Natoli, this project investigates how BCID PCR testing affects emergency department and inpatient admissions and time to appropriate treatment."
   },
   {
     "objectID": "research.html#project-1-geospatial-analysis",
@@ -35,25 +49,25 @@
     "text": "Through collaborations with the UConn GIS Health Lab at Connecticut Children’s we investigate the impact of place on pediatric health disparities. With a Hood Hub award (2026 to 2027), we are working with the Children’s Hospital Association and partner children’s hospitals to validate DeGAUSS, an open, privacy-preserving tool that links home addresses to neighborhood data, and to test whether it works equally well for every child. Recent work in the Journal of Pediatrics asked whether ZIP codes are good enough for measuring the Child Opportunity Index in pediatric hospitalization research."
   },
   {
-    "objectID": "research.html#project-2-low-value-care",
-    "href": "research.html#project-2-low-value-care",
+    "objectID": "research.html#project-2-rsv-bronchiolitis-nirsevimab",
+    "href": "research.html#project-2-rsv-bronchiolitis-nirsevimab",
     "title": "Research",
     "section": "",
-    "text": "Collaborating with Dr. Kimia’s NLP tool DrT to investigate predictors of Low Value Care in pediatrics."
+    "text": "Using PHIS and national datasets, we analyze trends in pediatric respiratory morbidity — with active projects on bronchiolitis geographic clustering, nirsevimab effectiveness (including an MMWR report across 24 states), and the impact of maternal RSV vaccination on pediatric hospitalizations. Our recent paper in Hospital Pediatrics describes bronchiolitis hospitalizations and cost at children’s hospitals in the era of RSV prevention.\n\nWith an NIH NIAID K23 award (2026), Preventing RSV: A Community-Engaged, Implementation Science Approach, we are learning from Hartford families why some newborns do not receive RSV immunization, co-designing a better way to offer it with parents and clinicians, and piloting it in a newborn nursery."
   },
   {
-    "objectID": "research.html#project-3-rsv-bronchiolitis-nirsevimab",
-    "href": "research.html#project-3-rsv-bronchiolitis-nirsevimab",
+    "objectID": "research.html#project-3-cannabis-hyperemesis-syndrome-chs",
+    "href": "research.html#project-3-cannabis-hyperemesis-syndrome-chs",
     "title": "Research",
     "section": "",
-    "text": "Using PHIS and national datasets, we analyze trends in pediatric respiratory morbidity — with active projects on bronchiolitis geographic clustering, nirsevimab effectiveness (including an MMWR report across 24 states), and the impact of maternal RSV vaccination on pediatric hospitalizations. Our recent paper in Hospital Pediatrics describes bronchiolitis hospitalizations and cost at children’s hospitals in the era of RSV prevention.\nWith an NIH NIAID K23 award (2026), Preventing RSV: A Community-Engaged, Implementation Science Approach, we are learning from Hartford families why some newborns do not receive RSV immunization, co-designing a better way to offer it with parents and clinicians, and piloting it in a newborn nursery."
+    "text": "Led by PHM fellow Dr. Annina Giannuzzi, our CHS work includes a standardized clinical pathway for CHS management across ED and inpatient settings at Connecticut Children’s, validation of the new CHS-specific ICD-10 code, and natural language processing (NLP) to identify CHS cases in the medical record."
   },
   {
-    "objectID": "research.html#project-4-cannabis-hyperemesis-syndrome-chs",
-    "href": "research.html#project-4-cannabis-hyperemesis-syndrome-chs",
+    "objectID": "research.html#project-4-blood-culture-identification-testing",
+    "href": "research.html#project-4-blood-culture-identification-testing",
     "title": "Research",
     "section": "",
-    "text": "We are developing a standardized clinical pathway for CHS management across ED and inpatient settings at Connecticut Children’s, paired with a retrospective chart review and multi-center database analysis."
+    "text": "Led by PHM fellow Dr. Kristin Natoli, this project investigates how BCID PCR testing affects emergency department and inpatient admissions and time to appropriate treatment."
   },
   {
     "objectID": "mission.html",
@@ -158,7 +172,7 @@
     "href": "index.html#latest-news",
     "title": "Welcome to the Hogan Lab",
     "section": "Latest News",
-    "text": "Latest News\n\n\nRecent Publications\n\nMapping Bronchiolitis in Connecticut Before and After the COVID-19 Pandemic. Pediatric Pulmonology, 2026.\nNirsevimab Effectiveness Against ICU Admission for RSV in Infants — 24 States. MMWR, 2025.\nCharacterizing Long COVID Symptoms During Early Childhood. JAMA Pediatrics, 2025.\nView all publications\n\n\n\nLab Updates\n\n2026: New paper on bronchiolitis mapping in Connecticut published in Pediatric Pulmonology\n2025: Co-author on MMWR report of nirsevimab ICU effectiveness across 24 states\n2025: Co-author on ECHO RECOVER long COVID study in JAMA Pediatrics\nCHS clinical pathway and RCT program launching at CT Children’s"
+    "text": "Latest News\n\n\nRecent Publications\n\nMapping Bronchiolitis in Connecticut Before and After the COVID-19 Pandemic. Pediatric Pulmonology, 2026.\nNirsevimab Effectiveness Against ICU Admission for RSV in Infants — 24 States. MMWR, 2025.\nCharacterizing Long COVID Symptoms During Early Childhood. JAMA Pediatrics, 2025.\nView all publications\n\n\n\nLab Updates\n\n2026: New paper on bronchiolitis mapping in Connecticut published in Pediatric Pulmonology\n2025: Co-author on MMWR report of nirsevimab ICU effectiveness across 24 states\n2025: Co-author on ECHO RECOVER long COVID study in JAMA Pediatrics\n2026: PHM fellows Dr. Annina Giannuzzi and Dr. Kristin Natoli lead our work on Cannabis Hyperemesis Syndrome and blood culture identification testing"
   },
   {
     "objectID": "publications.html",
@@ -207,7 +221,7 @@
     "href": "resources.html",
     "title": "Lab Resources & Policies",
     "section": "",
-    "text": "Our lab values clear, timely, and respectful communication. We use several channels for different purposes:\n\n\n\n\n\n\nPrimary channel for formal communication\nInclude “[secure]” for PHI\nExpected response: 24 hours\nFollow-up welcome if needed\n\n\n\n\n\nFor PHI communications\nBusiness hours only\nTime-sensitive matters\n\n\n\n\n\nQuick check-ins\nReminder notifications\nNo PHI or sensitive info\n\n\n\n\n\nProblem-solving\nComplex discussions\nBrainstorming sessions"
+    "text": "Our lab values clear, timely, and respectful communication. We use several channels for different purposes:\n\n\n\n\n\n\nPrimary channel for formal communication\nInclude “[secure]” for PHI\nExpected response: within two business days\nFollow-up welcome if needed\n\n\n\n\n\nFor PHI communications\nBusiness hours only\nTime-sensitive matters\n\n\n\n\n\nQuick check-ins\nReminder notifications\nNo PHI or sensitive info\n\n\n\n\n\nProblem-solving\nComplex discussions\nBrainstorming sessions"
   },
   {
     "objectID": "resources.html#communication-guidelines",
@@ -221,13 +235,13 @@
     "href": "resources.html#lab-meetings",
     "title": "Lab Resources & Policies",
     "section": "Lab Meetings",
-    "text": "Lab Meetings\n\nWeekly Lab Meetings\n\nWednesdays 1:00-2:00 PM\nAll members expected to attend\nRotating presentations\nGroup learning and discussion\n\n\n\nIndividual Meetings\n\nWeekly during first year\nFrequency adjusts based on needs\nCareer development focus\nProject guidance and support"
+    "text": "Lab Meetings\n\nWeekly Lab Meetings\n\nFridays 1:00-2:00 PM\nAll members expected to attend\nRotating presentations\nGroup learning and discussion\n\n\n\nIndividual Meetings\n\nEvery two weeks during first year\nFrequency adjusts based on needs\nCareer development focus\nProject guidance and support"
   },
   {
     "objectID": "resources.html#getting-started",
     "href": "resources.html#getting-started",
     "title": "Lab Resources & Policies",
     "section": "Getting Started",
-    "text": "Getting Started\n\nNew Lab Member Checklist\n\nComplete HR paperwork\nObtain identification badge\nSecure login credentials\nSchedule initial PI meeting\nComplete Individual Development Plan\nSubmit website information\n\n\n\nRequired Training\n\nIRB certification\nCITI training modules\nLab-specific training as needed\nKeep certifications current\n\nView Complete Lab Manual"
+    "text": "Getting Started\n\nNew Lab Member Checklist\n\nComplete HR paperwork\nObtain identification badge\nSecure login credentials\nSchedule initial PI meeting\nComplete Individual Development Plan\nSubmit website information\n\n\n\nRequired Training\n\nIRB certification\nCITI training modules\nLab-specific training as needed\nKeep certifications current"
   }
 ]
