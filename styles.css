@@ -103,6 +103,8 @@ hr{border-color:var(--line);opacity:1}
 /* research */
 .page-research main .columns{display:flex!important;flex-direction:row-reverse;justify-content:flex-end;gap:20px;border:1px solid var(--line);border-radius:10px;padding:24px;margin:20px 0}
 .page-research main .columns .column{width:auto!important;min-width:0}
+.page-research main .columns .column:last-child{flex:0 0 44px}
+.page-research main .columns .column:first-child{flex:1 1 auto}
 .page-research main .columns h2{margin-top:0!important;font-size:1.4rem}
 .page-research main .columns p:last-child{margin-bottom:0}
 
